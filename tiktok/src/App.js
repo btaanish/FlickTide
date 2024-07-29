@@ -5,10 +5,25 @@ import Video from "./Video";
 function App() {
   return (
     <div className="app">
-      <h1>Let's build a Fullstack MERN TikTok</h1>
       <div className="app__videos">
-        <Video />
-        <Video />
+        <Video
+          url="https://www.w3schools.com/html/mov_bbb.mp4"
+          channel={"John Doe"}
+          description={"The Sound of Music"}
+          song={"Doh a dear a female dear"}
+          likes={354}
+          shares={371}
+          messages={1111111}
+        />
+        <Video
+          url="https://www.w3schools.com/html/mov_bbb.mp4"
+          channel={"John Doe"}
+          description={"The Sound of Music"}
+          song={"Doh a dear a female dear"}
+          likes={354}
+          shares={371}
+          messages={1111111}
+        />
       </div>
 
       {/* app container */}
