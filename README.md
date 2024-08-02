@@ -14,7 +14,6 @@ FlickTide is a robust web application inspired by TikTok, designed to replicate 
 - **Continuous Video Scrolling**: Infinite scrolling mechanism for video content.
 - **User Interactions**: Implemented like, comment, and share functionalities using React state management.
 - **Metadata Display**: Dynamically displays song titles and usernames fetched from the backend.
-- **Responsive Design**: Utilizes CSS Flexbox and Grid for responsive layouts compatible with various screen sizes.
 
 ## Technology Stack
 
